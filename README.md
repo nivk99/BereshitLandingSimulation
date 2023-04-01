@@ -7,6 +7,7 @@ Bereshit spacecraft unfortunately didn't manage to land properly on the moon, th
 The main goal of this simulator is try to make landing process successfully which will do it fully automatically using all sensors available in the craft.
 
 We have here few parameters we count on: Vertical speed, Horizontal speed, distance, angle-rotation, alttitude,acceleration,fuel,weight.
+In our work we will use PID more details can be found - https://en.wikipedia.org/wiki/PID_controller
 
 
 ![](https://github.com/wfleshman/PID_Control/blob/master/imgs/lander.gif)
